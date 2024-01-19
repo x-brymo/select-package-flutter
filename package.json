@@ -16,6 +16,14 @@
       {
         "command": "select-package-flutter.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "select-package-flutter.installDependency",
+        "title": "installPackage"
+      },
+      {
+        "command": "select-package-flutter.searchFlutterDependency",
+        "title": "searchPackage"
       }
     ]
   },
